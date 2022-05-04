@@ -7,7 +7,6 @@ This repository that calculates the sum of the items in an array and adds and di
 
 ```bash
 $ git clone git@github.com:jorgearaujo81/mutex.git
-$ cd src
 ```
 
 ## Running
